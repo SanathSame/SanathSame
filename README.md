@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hey there 👋, I'm Sanath Surawar!</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/majulasingapuri?color=blue&label=Tweet%20me&logo=Twitter&style=for-the-badge)][Twitter]
 [![Instagram](https://img.shields.io/badge/Follow-me-blue?style=for-the-badge&logo=instagram)](https://instagr.am/mr_sanath)
 [![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanath-surawar)
 ![GitHub followers](https://img.shields.io/github/followers/SanathSame?style=for-the-badge&label=Github%20Followers)
